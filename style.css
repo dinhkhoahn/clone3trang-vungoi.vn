@@ -1,0 +1,153 @@
+body {
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.section-header {
+    text-align: center;
+    background-color: #dbeccf;
+    padding: 1px;
+}
+
+.thanh-vien-vip {
+    color: #e29000;
+    font-size: bold;
+}
+
+.dang-ki-vip {
+    color: #44a500;
+}
+
+.sign-in-up div {
+    margin: 10px;
+    padding-right: 5px;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.conten-header {
+    margin: auto;
+    background-color: #44a500!important;
+    color: white;
+}
+
+.conten-header .container {
+    padding: 0;
+}
+
+.home {
+    background-color: #e29000;
+    font-size: 20px;
+    padding: 20px;
+    margin: 0;
+}
+
+.nav {
+    width: 70%;
+    padding-right: 40px;
+}
+
+.ul-nav {
+    list-style: none;
+    font-size: bold;
+}
+
+.lop-khac {
+    background-color: #e29000;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.text-big {
+    font-size: 18px;
+    color: #44a500;
+}
+
+.row {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.row .owl {
+    flex-basis: 10%;
+    text-align: center;
+}
+
+.row .noi-dung {
+    margin-left: 20px;
+    margin-right: 20px;
+    flex-basis: 75%;
+}
+
+.row .button {
+    text-align: center;
+    flex-basis: 15%;
+    color: white;
+    background-color: #e29000;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.container-main {
+    align-items: flex-start;
+}
+
+.main-content {
+    flex-basis: 65%;
+}
+
+.aside {
+    flex-basis: 35%;
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    text-align: center;
+}
+
+.font-size-18 {
+    font-size: 18px;
+}
+
+.chinh-sach ul {
+    list-style: none;
+    font-style: normal;
+    flex-basis: 33.33%;
+}
+
+.about {
+    text-align: center;
+}
+
+.banner-bottom {
+    background-color: #44a500;
+    color: white;
+}
+
+
+
+
+
+
